@@ -2881,8 +2881,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # Repórter Sábado - NOW Canal
 
-#EXTINF:-1 media="true" group-title="Repórter Sábado - NOW Canal" tvg-logo="",Repórter Sábado | Temporada 2 | EP.52
+#EXTINF:-1 media="true" group-title="Repórter Sábado - NOW Canal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Repórter Sábado S02E52
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6108484330001/71c5a06c-6b5b-4fea-9f4c-e138634104b2/10s/master.m3u8?fastly_token=NjhhMzhiYjdfZTM5OTE1MGU1NDFjMTMzOWZhODkyYjRjNTg4YmIwNjMwNDUyYWFhNDc3OWIyMTNmNDZmNGQ2ZGQ4NDMwNDY2Yg%3D%3D
+
 # 📻 Radio stations
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1.png",Rádio  Antena 1
